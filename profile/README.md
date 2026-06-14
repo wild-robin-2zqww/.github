@@ -1,18 +1,18 @@
 <a href="https://win-money.click/?brand=WildRobin&source=github.com" target="_blank">
-<img width="306" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Wild%20Robin-00695C?style=flat-square" />
+<img width="513" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Wild%20Robin-283593?style=for-the-badge" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=WildRobin&source=github.com" target="_blank">
-<img width="178" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Wild%20Robin-00695C?style=flat-square" />
+<img width="298" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Wild%20Robin-283593?style=for-the-badge" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=WildRobin&source=github.com" target="_blank">
-<img width="210" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Wild%20Robin-00695C?style=flat-square" />
+<img width="352" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Wild%20Robin-283593?style=for-the-badge" />
 </a>
 
-![Wild Robin](33-7254.png)
+![Wild Robin](33-2593.png)
 
 <h2>Wild Robin Casino: Практическое совет для почитателей 🚀</h2>
 <p>Откройте для себя мир азартных игр в Wild Robin Casino, изучив особенности лицензированной платформы, актуальные зеркала и возможности для выгодного старта. </p>
@@ -132,4 +132,3 @@
 </ul>
 
 [Open website](https://win-money.click/?brand=WildRobin&source=github.com)
-
